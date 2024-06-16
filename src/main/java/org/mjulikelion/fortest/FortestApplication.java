@@ -10,4 +10,5 @@ public class FortestApplication {
 		SpringApplication.run(FortestApplication.class, args);
 	}
 
+
 }
